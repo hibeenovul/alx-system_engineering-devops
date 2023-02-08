@@ -1,2 +1,3 @@
-#!/bin/bash ($ wc -l 0-current_working_directory)
-$ why?
+#!/bin/bash
+
+root/alx-system_engineering-devops/0x00-shell_basics$ pwd
